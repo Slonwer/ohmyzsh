@@ -545,5 +545,5 @@ EOF
 
   exec zsh -l
 }
-
+echo "sucess"
 main "$@"
